@@ -14,7 +14,7 @@ A tabela apresenta a correspondência entre os pinos E/S do microcontrolador e o
 
 ====== ====== =========== ====== =========== ========
        Raspberry Pi                  8051
-------------------------- ------ ----------- --------
+------------------------- ---------------------------
  GPIO   Pino   Funcção     Pino   Porto/bit   Função
 ====== ====== =========== ====== =========== ========
   02     03    SDA1, I2C    42      P1.2      
