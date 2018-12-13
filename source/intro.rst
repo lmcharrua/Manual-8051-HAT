@@ -14,7 +14,7 @@ Esta placa é vocacionada para o ensino de microcontroladores 8051, e tem por ba
 Raspberry Pi
 ============
 
-.. image:: Images/Raspberry-Pi-3.JPG
+.. image:: Images/Raspberry-Pi-3.jpg
     :align: center
 
 O Raspberry Pi é um computador de baixo custo e que tem o tamanho de um cartão de crédito desenvolvido no Reino Unido pela `Fundação Raspberry Pi <http:\\www.raspberrypi.org>`_. Para usá-lo, basta ligar um teclado e um rato USB e de seguida ligar tudo a um Monitor ou Televisão.
