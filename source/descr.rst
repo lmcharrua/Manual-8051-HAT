@@ -12,6 +12,8 @@ Interligação RPi <-> microcontrolador
 
 A tabela apresenta a correspondência entre os pinos E/S do microcontrolador e os GPIO do Raspberry Pi, bem como as suas funcionalidades.
 
+.. tabularcolumns:: |c|c|c|c|c|c|
+
 ====== ====== =========== ====== =========== ========
     Raspberry Pi                    8051
 ------------------------- ---------------------------
