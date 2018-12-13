@@ -14,7 +14,7 @@ A tabela apresenta a correspondência entre os pinos E/S do microcontrolador e o
 
 .. tabularcolumns:: |c|c|c|c|c|c|
 
-+======+======+============+======+===========+========+
++------+------+------------+------+-----------+--------+
 |       Raspberry Pi       |         8051              |
 +------+------+------------+------+-----------+--------+
 | GPIO | Pino | Função     | Pino | Porto/bit | Função |
@@ -33,4 +33,4 @@ A tabela apresenta a correspondência entre os pinos E/S do microcontrolador e o
 |  13  |  33  | PWM1       |  09  |   P3.3    | /INT1  |
 |  22  |  15  |            |  13  |   P3.7    |        |
 |  23  |  16  |            |  37  |   P0.0    |        |
-+======+======+============+======+===========+========+
++------+------+------------+------+-----------+--------+
