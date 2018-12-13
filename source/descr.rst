@@ -26,4 +26,11 @@ A tabela apresenta a correspondência entre os pinos E/S do microcontrolador e o
   06     31    GPCLK2        11      P3.5        T1
   07     26    CE0_N SPI0    12      P3.6      
   08     24    CE1_N SPI0    44      P1.4       /SS
+  09     21    MISO SPI0     02      P1.6       MISO
+  10     19    MOSI SPI0     01      P1.5       MOSI
+  11     23    CLK SPI0      03      P1.7       SCK
+  12     32    PWM0          40      P1.0        T2
+  13     33    PWM1          09      P3.3      /INT1
+  22     15                  13      P3.7      
+  23     16                  37      P0.0
 ====== ====== ============ ====== =========== ========
