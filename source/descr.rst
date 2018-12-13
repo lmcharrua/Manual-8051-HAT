@@ -12,12 +12,13 @@ Interligação RPi <-> microcontrolador
 
 A tabela apresenta a correspondência entre os pinos E/S do microcontrolador e os GPIO do Raspberry Pi, bem como as suas funcionalidades.
 
-====== ====== =========== ====== =========== ========
+------ ------ ----------- ------ ----------- --------
        Raspberry Pi                  8051
 ------------------------- ---------------------------
- GPIO   Pino   Funcção     Pino   Porto/bit   Função
+ GPIO   Pino   Função      Pino   Porto/bit   Função
 ====== ====== =========== ====== =========== ========
   02     03    SDA1, I2C    42      P1.2      
   03     05    SCL1, I2C    43      P1.3
   04     07    GPCLK0       08      P3.2      /INT0
-====== ====== =========== ====== =========== ========
+  05     29    GPCLK1       10      P3.4        T0
+------ ------ ----------- ------ ----------- --------
